@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning multi agents systems
 - 💞️ I’m looking to collaborate on my own experiments
 - 📫 How to reach me jules.cassan@hotmail.com
-- 🖱️ I've also made litle portfolio for you to better know me !
+- 🖱️ I've also made little portfolio for you to better know me ! -> https://white-on.github.io/Portfolio_Website/
+
 
 <!---
 White-On/White-On is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
