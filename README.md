@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @White-On
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning multi agents systems
-- 💞️ I’m looking to collaborate on my own experiments
+- 🌱 I’m currently learning Multi agent systems, Language Model, Web Development, PyTorch, Bayesian Network and other stuff
+- 💞️ I’m looking to collaborate on any project that catch my intrest !
 - 📫 How to reach me jules.cassan@hotmail.com
 - 🖱️ I've also made little portfolio for you to better know me ! -> https://white-on.github.io/Portfolio_Website/
 
